@@ -1,0 +1,50 @@
+{
+  "dna": "a346adb639b0b43ef167b5188b854ed6",
+  "name": "Test Project #2",
+  "description": "",
+  "image": "REPLACE-THIS-WITH-YOUR-URL/2.png",
+  "date": 1641841601443,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "goldSign"
+    },
+    {
+      "trait_type": "OnBack",
+      "value": "sky"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "lion"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Bling",
+      "value": "platinumChain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "RayBans"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "orangeMaga"
+    },
+    {
+      "trait_type": "Foreground",
+      "value": "DC"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "longForm"
+    }
+  ],
+  "compiler": "raremints.club"
+}
